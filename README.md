@@ -1,8 +1,8 @@
-##                 NAVEEN SEKHARAMAHANTHI
+# NAVEEN SEKHARAMAHANTHI
 
-_Experienced Automation Test Engineer with a demonstrated history of working in Test Automation using Java and Selenium_ <br>
+**Experienced Automation Test Engineer with a demonstrated history of working in Test Automation using Java and Selenium** <br>
 
-### >> PROFESSIONAL SUMMARY
+### PROFESSIONAL SUMMARY
 - Working experience of 4.9 years in Automation testing using Selenium and JAVA
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
