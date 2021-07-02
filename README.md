@@ -1,4 +1,4 @@
-## Naveen Sekharamahanthi
+##                 NAVEEN SEKHARAMAHANTHI
 
 _Experienced Automation Test Engineer with a demonstrated history of working in Test Automation using Java and Selenium_ <br>
 
