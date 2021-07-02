@@ -1,6 +1,6 @@
 # NAVEEN SEKHARAMAHANTHI
 
-**Experienced Automation Test Engineer with a demonstrated history of working in Test Automation using Java and Selenium** <br>
+Experienced Automation Test Engineer with a demonstrated history of working in Test Automation using Java and Selenium
 
 ### PROFESSIONAL SUMMARY
 - Working experience of 4.9 years in Automation testing using Selenium and JAVA
