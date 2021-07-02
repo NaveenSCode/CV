@@ -1,8 +1,8 @@
 ## Naveen Sekharamahanthi
 
-_Software engineer (and sometimes still a journalist) based in Berlin, Germany_ <br>
+_Experienced Automation Test Engineer with a demonstrated history of working in Test Automation using Java and Selenium_ <br>
 
-### Markdown
+### >>Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
